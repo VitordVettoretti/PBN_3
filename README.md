@@ -8,3 +8,4 @@ Abordagens
   - Passagem de paramentros - valor ou referencia 
   - Ponteiros
   - Strings
+  - Structs e unions
